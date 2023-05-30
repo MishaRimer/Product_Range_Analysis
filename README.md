@@ -1,5 +1,4 @@
-# Product_Range_Analysis
-Optimizing Product Range for Retail Store
+# Projects Description
 
 | Project | Description |
 | ------- | ----------- |
